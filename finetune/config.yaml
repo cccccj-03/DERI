@@ -1,0 +1,13 @@
+network:
+  # ecg_model: resnet18
+  ecg_model: resnet18
+  num_leads: 12
+  ### this part does not control builder/trainer
+  text_model: /home/chenjian/multi-modal_ECG/MedCPT-Query-Encoder
+  free_layers: 6 # set 12 to freeze all layer in bert
+  feature_dim: 768
+
+  projection_head:
+    mlp_hidden_size: 256
+    projection_size: 256
+  ###
