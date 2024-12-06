@@ -14,14 +14,14 @@ CSN(Chapman-Shaoxing-Ningbo): We downloaded the CSN dataset: https://physionet.o
 
 ## Implementatiom
 ### Pretrain
-bash MERL/pretrain/launch.sh
+bash pretrain/launch.sh
 
 ### Linear Probing
-cd MERL/finetune/sub_script
+cd finetune/sub_script
 bash run_all_linear.sh
 
 ### Zero-shot
-cd MERL/zeroshot
+cd zeroshot
 bash zeroshot.sh
 
 ### Report Generation
