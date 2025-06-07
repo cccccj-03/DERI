@@ -1,4 +1,4 @@
-# DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction   IJCAI 2025
+# DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction  ----Accepted by IJCAI 2025
 
 We provide our expermiental code here and more details will be collated and released after acceptance.
 
