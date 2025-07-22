@@ -1,6 +1,6 @@
 # DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction  ----Accepted by IJCAI 2025
 
-We provide our expermiental code here and more details will be collated and released after acceptance.
+We provide our experimental code and the supplementary materials of our paper here.
 
 ## Dataset:
 MIMIC-IV-ECG: We downloaded the MIMIC-IV-ECG dataset as the ECG signals and paired ECG reports: https://physionet.org/content/mimic-iv-ecg/1.0/
